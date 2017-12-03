@@ -3,7 +3,7 @@
 namespace BookShop.Api.Controllers
 {
     [Route("api/[controller]")]
-    public class BaseController : Controller
+    public abstract class BaseController : Controller
     {
     }
 }

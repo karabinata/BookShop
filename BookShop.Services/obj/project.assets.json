@@ -3983,7 +3983,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karab\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -3992,17 +3992,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Services\\BookShop.Services.csproj",
+      "projectUniqueName": "C:\\Users\\User\\BookShop\\BookShop.Services\\BookShop.Services.csproj",
       "projectName": "BookShop.Services",
-      "projectPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Services\\BookShop.Services.csproj",
-      "packagesPath": "C:\\Users\\karab\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Services\\obj\\",
+      "projectPath": "C:\\Users\\User\\BookShop\\BookShop.Services\\BookShop.Services.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\BookShop\\BookShop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\karab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4015,11 +4015,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Common\\BookShop.Common.csproj": {
-              "projectPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Common\\BookShop.Common.csproj"
+            "C:\\Users\\User\\BookShop\\BookShop.Common\\BookShop.Common.csproj": {
+              "projectPath": "C:\\Users\\User\\BookShop\\BookShop.Common\\BookShop.Common.csproj"
             },
-            "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Data\\BookShop.Data.csproj": {
-              "projectPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Data\\BookShop.Data.csproj"
+            "C:\\Users\\User\\BookShop\\BookShop.Data\\BookShop.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\BookShop\\BookShop.Data\\BookShop.Data.csproj"
             }
           }
         }

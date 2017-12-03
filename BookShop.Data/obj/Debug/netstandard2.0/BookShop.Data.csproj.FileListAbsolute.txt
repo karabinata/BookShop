@@ -7,3 +7,12 @@ c:\users\karab\source\repos\BookShop\BookShop.Data\obj\Debug\netstandard2.0\Book
 c:\users\karab\source\repos\BookShop\BookShop.Data\bin\Debug\netstandard2.0\BookShop.Data.pdb
 c:\users\karab\source\repos\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.dll
 c:\users\karab\source\repos\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.pdb
+C:\Users\User\BookShop\BookShop.Data\bin\Debug\netstandard2.0\BookShop.Data.deps.json
+C:\Users\User\BookShop\BookShop.Data\bin\Debug\netstandard2.0\BookShop.Data.dll
+C:\Users\User\BookShop\BookShop.Data\bin\Debug\netstandard2.0\BookShop.Data.pdb
+C:\Users\User\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.AssemblyInfoInputs.cache
+C:\Users\User\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.AssemblyInfo.cs
+C:\Users\User\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.dll
+C:\Users\User\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.pdb

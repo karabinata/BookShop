@@ -2935,7 +2935,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karab\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -2944,17 +2944,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Common\\BookShop.Common.csproj",
+      "projectUniqueName": "C:\\Users\\User\\BookShop\\BookShop.Common\\BookShop.Common.csproj",
       "projectName": "BookShop.Common",
-      "projectPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Common\\BookShop.Common.csproj",
-      "packagesPath": "C:\\Users\\karab\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Common\\obj\\",
+      "projectPath": "C:\\Users\\User\\BookShop\\BookShop.Common\\BookShop.Common.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\BookShop\\BookShop.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\karab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

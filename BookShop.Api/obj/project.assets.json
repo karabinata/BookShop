@@ -12656,7 +12656,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karab\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12665,17 +12665,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Api\\BookShop.Api.csproj",
+      "projectUniqueName": "C:\\Users\\User\\BookShop\\BookShop.Api\\BookShop.Api.csproj",
       "projectName": "BookShop.Api",
-      "projectPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Api\\BookShop.Api.csproj",
-      "packagesPath": "C:\\Users\\karab\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Api\\obj\\",
+      "projectPath": "C:\\Users\\User\\BookShop\\BookShop.Api\\BookShop.Api.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\BookShop\\BookShop.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\karab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12688,14 +12688,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Services\\BookShop.Services.csproj": {
-              "projectPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Services\\BookShop.Services.csproj"
+            "C:\\Users\\User\\BookShop\\BookShop.Services\\BookShop.Services.csproj": {
+              "projectPath": "C:\\Users\\User\\BookShop\\BookShop.Services\\BookShop.Services.csproj"
             },
-            "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Common\\BookShop.Common.csproj": {
-              "projectPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Common\\BookShop.Common.csproj"
+            "C:\\Users\\User\\BookShop\\BookShop.Common\\BookShop.Common.csproj": {
+              "projectPath": "C:\\Users\\User\\BookShop\\BookShop.Common\\BookShop.Common.csproj"
             },
-            "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Data\\BookShop.Data.csproj": {
-              "projectPath": "c:\\users\\karab\\source\\repos\\BookShop\\BookShop.Data\\BookShop.Data.csproj"
+            "C:\\Users\\User\\BookShop\\BookShop.Data\\BookShop.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\BookShop\\BookShop.Data\\BookShop.Data.csproj"
             }
           }
         }
@@ -12715,7 +12715,7 @@
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {

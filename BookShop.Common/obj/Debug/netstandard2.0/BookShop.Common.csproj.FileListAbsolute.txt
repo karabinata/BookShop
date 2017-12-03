@@ -7,3 +7,12 @@ c:\users\karab\source\repos\BookShop\BookShop.Common\obj\Debug\netstandard2.0\Bo
 c:\users\karab\source\repos\BookShop\BookShop.Common\bin\Debug\netstandard2.0\BookShop.Common.pdb
 c:\users\karab\source\repos\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.dll
 c:\users\karab\source\repos\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.pdb
+C:\Users\User\BookShop\BookShop.Common\bin\Debug\netstandard2.0\BookShop.Common.deps.json
+C:\Users\User\BookShop\BookShop.Common\bin\Debug\netstandard2.0\BookShop.Common.dll
+C:\Users\User\BookShop\BookShop.Common\bin\Debug\netstandard2.0\BookShop.Common.pdb
+C:\Users\User\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.csprojResolveAssemblyReference.cache
+C:\Users\User\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.AssemblyInfoInputs.cache
+C:\Users\User\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.AssemblyInfo.cs
+C:\Users\User\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.dll
+C:\Users\User\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.pdb

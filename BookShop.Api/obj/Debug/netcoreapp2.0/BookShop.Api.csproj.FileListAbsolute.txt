@@ -1,0 +1,17 @@
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.deps.json
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.runtimeconfig.json
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.runtimeconfig.dev.json
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.dll
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.pdb
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+c:\users\karab\source\repos\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.csprojResolveAssemblyReference.cache
+c:\users\karab\source\repos\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.csproj.CoreCompileInputs.cache
+c:\users\karab\source\repos\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.AssemblyInfoInputs.cache
+c:\users\karab\source\repos\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.AssemblyInfo.cs
+c:\users\karab\source\repos\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.dll
+c:\users\karab\source\repos\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.pdb
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Services.dll
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Common.dll
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Common.pdb
+c:\users\karab\source\repos\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Services.pdb

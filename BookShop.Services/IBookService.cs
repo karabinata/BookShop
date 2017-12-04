@@ -18,7 +18,7 @@ namespace BookShop.Services
             int? ageRestriction,
             string categories);
 
-        Task<int> UpdateAsync(
+        Task<int?> UpdateAsync(
             int bookId,
             string title,
             string description,

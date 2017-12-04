@@ -25,6 +25,11 @@ namespace BookShop.Data
                 .HasKey(cb => new { cb.CategoryId, cb.BookId });
 
             builder
+                .Entity<Category>()
+                .HasIndex(c => c.Name)
+                .IsUnique();
+
+            builder
                 .Entity<Book>()
                 .HasMany(b => b.Categories)
                 .WithOne(c => c.Book)

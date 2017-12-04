@@ -111,7 +111,7 @@ namespace BookShop.Services.Implementations
                 .ProjectTo<BookDetailsServiceModel>()
                 .FirstOrDefaultAsync();
 
-        public async Task<int> UpdateAsync(
+        public async Task<int?> UpdateAsync(
             int bookId,
             string title, 
             string description, 
@@ -128,7 +128,7 @@ namespace BookShop.Services.Implementations
 
             if (book == null)
             {
-                return 0;
+                return null;
             }
 
             book.Title = title;
